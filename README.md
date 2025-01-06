@@ -5,9 +5,9 @@
 
 ## About me
 
-My name is Rodrigo, I am 23 years old and I am a web development enthusiast. In my free time I like to solve puzzles, read books and play videogames. I am a hardworking, focused, and determined person. I am self-taught and I enjoy learning new things. 
+My name is Rodrigo, I am a 24 years old Systems Engineer and I am a web development enthusiast. In my free time I like to solve puzzles, read books and play videogames. I am a hardworking, focused, and determined person. I am self-taught and I enjoy learning new things. 
 
-Right now I'm learning flutter to be capable of building mobile apps!
+Right now I'm learning Kotlin for mobile dev and .NET for backend dev!
 
 ## My tech stack
 
@@ -15,8 +15,5 @@ Right now I'm learning flutter to be capable of building mobile apps!
 ) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 ) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 ) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
-)
+) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-## Currrently Learning:
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
