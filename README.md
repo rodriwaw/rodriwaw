@@ -1,7 +1,7 @@
 
 # Hi there 👋 I'm Rodrigo
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-zapatero/) <!-- [![Portfolio](https://img.shields.io/badge/PORTFOLIO-E34F26?style=for-the-badge&color=pink)]() --> [![CV](https://img.shields.io/badge/DOWLOAD%20MY%20CV-E34F26?style=for-the-badge&color=red&url=https://firebasestorage.googleapis.com/v0/b/react-app-acd6d.appspot.com/o/CV_Tiago%20Rodrigues%20Pereira.pdf?alt=media&token=d6ef8f22-21a7-41e5-8ac7-d8afc5003be6)](https://drive.google.com/file/d/1MkCCAtgN_FJj-WUKQz5Qe9M_5CrdZesO/view?usp=sharing)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-zapatero/) <!-- [![Portfolio](https://img.shields.io/badge/PORTFOLIO-E34F26?style=for-the-badge&color=pink)]() --> [![CV](https://img.shields.io/badge/DOWLOAD%20MY%20CV-E34F26?style=for-the-badge&color=red&url=https://firebasestorage.googleapis.com/v0/b/react-app-acd6d.appspot.com/o/CV_Tiago%20Rodrigues%20Pereira.pdf?alt=media&token=d6ef8f22-21a7-41e5-8ac7-d8afc5003be6)](https://drive.google.com/file/d/1Amp-DLnbrd1hcBifBnqfaXkdGI9koYFe/view?usp=sharing)
 
 ## About me
 
